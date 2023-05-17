@@ -1,0 +1,34 @@
+_repo: The-O-S-U-Naturalist-Vol-1-No-2-December-1900_70477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ohio State University. Biological Club
+    aliases:
+    - Biological Club‏, Columbus, OH‏
+    - Club, Ohio State University. Biological
+    gutenberg_agent_id: '49984'
+    url: http://www.gutenberg.org/2009/agents/49984
+description: ''
+gutenberg_issued: '2023-04-06'
+identifiers:
+  gutenberg: '70477'
+language: en
+pgterms:marc905: 20161111115244various
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Bob Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biodiversity Heritage
+  Library.)
+publication_note: '  $aUnited States :$bThe Biological Club of the Ohio State University,
+  $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Periodicals'
+- !lcsh 'Natural history -- Periodicals'
+- !lcsh 'Natural history -- Ohio -- Periodicals'
+- !lcc 'Q'
+- GITenberg
+title: The O. S. U. Naturalist, Vol. 1, No. 2, December, 1900
+url: http://www.gutenberg.org/ebooks/70477
